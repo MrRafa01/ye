@@ -1,0 +1,37 @@
+
+{
+  "ID": 110,
+  "Name": "Null Realm",
+  "Class": "JinRyuu.DragonBC.common.Worlds.Dimension.NullRealm.BiomeNullRealm",
+  "Color": 16777215,
+  "Root Height": 0.0,
+  "Height Variation": 0.0,
+  "Top Block": "minecraft:air",
+  "Filler Block": "minecraft:air",
+  "Grass Color": "Not set. Check in-game.",
+  "Foliage Color": "Not set. Check in-game.",
+  "Water Color": "10631373",
+  "Temperature": 0.5,
+  "Humidity": 0.9,
+  "Water Tint": 10631373,
+  "Enable Rain": false,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "HOT",
+    "DRY"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [
+    {
+      "Entity Class": "net.minecraft.entity.passive.EntityBat",
+      "Weight": 10,
+      "Min Group Count": 8,
+      "Max Group Count": 8
+    }
+  ],
+  "Spawn Biome": false,
+  "Tweaked": false
+}

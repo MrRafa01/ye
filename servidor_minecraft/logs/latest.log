@@ -1,0 +1,25 @@
+[19:39:03] [Server thread/INFO]: Starting minecraft server version 1.7.10
+[19:39:06] [Server thread/INFO]: Loading properties
+[19:39:06] [Server thread/INFO]: Default game type: SURVIVAL
+[19:39:06] [Server thread/INFO]: Generating keypair
+[19:39:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:39:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:39:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:39:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:39:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:39:09] [Server thread/INFO]: Preparing level "world"
+[19:39:09] [Server thread/INFO]: Preparing start region for level 0
+[19:39:10] [Server thread/INFO]: Done (0.823s)! For help, type "help" or "?"
+[19:39:10] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[19:39:14] [Server thread/INFO]: Stopping the server
+[19:39:14] [Server thread/INFO]: Stopping server
+[19:39:14] [Server thread/INFO]: Saving players
+[19:39:14] [Server thread/INFO]: Saving worlds
+[19:39:14] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[19:39:14] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[19:39:14] [Server thread/INFO]: Saving chunks for level 'world'/The End
+[19:39:14] [Server thread/INFO]: Saving chunks for level 'world'/Vegeta
+[19:39:14] [Server thread/INFO]: Saving chunks for level 'world'/Namek
+[19:39:14] [Server thread/INFO]: Saving chunks for level 'world'/Null Realm
+[19:39:14] [Server thread/INFO]: Saving chunks for level 'world'/TimeChamber
+[19:39:14] [Server thread/INFO]: Saving chunks for level 'world'/OtherWorld
